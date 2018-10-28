@@ -1,0 +1,126 @@
+#banner {
+    width: 800px;
+    height: 100px;
+    background-color: aqua;
+    float: left;
+    clear: both;
+    position: fixed;
+
+
+}
+
+#nav {
+    width: 100px;
+    height: 200px;
+    background-color: darkgray;
+    float: left;
+    position: fixed;
+
+
+}
+
+#nav li a {
+    text-decoration: none;
+    color: white;
+}
+
+#nav li a:hover {
+    background-color: black;
+
+}
+
+ul {
+    padding-left: 0px;
+
+
+}
+
+div.gallery {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid gray;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+
+}
+
+div.gallery:hover {
+    border: 1px solid darkgray;
+
+}
+
+div.gallery img {
+    display: inline;
+    margin: 5px;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    border: 1px solid #ffffff;
+    object-fit: cover;
+
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+li {
+    display: block;
+    background-color: aquamarine;
+    margin-top: 10px;
+
+
+}
+
+li a {
+    text-decoration-line: none;
+}
+
+item {
+    padding-top: 180px;
+    margin-top: -180px;
+}
+
+#content {
+    width: 600px;
+    height: 400px;
+    background-color: beige;
+    float: left;
+    margin-left: 100px;
+}
+
+#supporting {
+    width: 100px;
+    height: 150px;
+    background-color: darkorange;
+    float: left;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Charmonman', cursive;
+font-family: 'Chakra Petch', sans-serif;
+}
+
+#content,
+#nav,
+#supporting {
+    margin-top: 100px;
+}
+
+#wrapper {
+    width: 800px;
+    margin: 0 auto;
+
+}
+
+
+#footer {
+    width: 800px;
+    height: 50px;
+    background-color: chartreuse clear:both;
+}

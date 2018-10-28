@@ -1,0 +1,38 @@
+
+
+#first{
+ background-image: url(photo/ponyo05.jpg);
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+#second{
+  background-image: url(photo/ponyo05.jpg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#third{
+  background-image: url(photo/ponyo05.jpg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#second img{
+    position:fixed;
+    width:auto;
+    height: auto;
+    top:55%;
+    left:20%;
+}
